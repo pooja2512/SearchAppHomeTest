@@ -1,0 +1,16 @@
+.space-within-div {
+    margin-top: 20px; 
+ }
+
+ .search-container {
+    display: flex;
+  }
+  
+  input {
+    margin-right: 10px; 
+    margin-left: 20px;
+  }
+
+  .heading {
+    margin:20px;
+  }
